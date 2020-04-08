@@ -15,3 +15,5 @@ git add .
 git remote add origin url
 git commit -m "txt"
 git push origin master
+
+apollo-boost는 GraphQL Yoga처럼 이미 모든것을 다 설정해둔 package다
