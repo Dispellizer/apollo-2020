@@ -17,3 +17,9 @@ git commit -m "txt"
 git push origin master
 
 apollo-boost는 GraphQL Yoga처럼 이미 모든것을 다 설정해둔 package다
+
+ApolloProvider를 써서 App을 감싸야 한다.
+
+style-hook-apollo 이순서로 들어야 할거 같은데?
+
+이순서로 듣자
