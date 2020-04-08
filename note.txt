@@ -1,0 +1,16 @@
+npx create-react-app apollo-2020
+
+styled-components, react-router-dom, react-apollo를 사용할것.
+apollo-boost @apollo/react-hooks graphql
+
+apollo는 react에 graphql api를 사용하기 좋은 방법이다.
+
+styled-components - css를 위한것
+react-router-dom - router를 위한것
+apollo-bost, @apolo/react-hooks는 hooks를 사용하기 위한것
+graphql은 graphql을 위한것
+
+git remote add origin https://github.com/Dispellizer/apollo-2020
+git add .
+git commit -m "0.2 Set Up"
+git push origin master
